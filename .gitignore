@@ -1,0 +1,9 @@
+#Virtualenv
+env
+
+#Django
+__pycache__
+
+#Data bases
+db.sqlite3
+
